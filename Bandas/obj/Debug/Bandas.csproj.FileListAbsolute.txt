@@ -1,0 +1,7 @@
+C:\Users\games\OneDrive\Documentos\c#-Alura\Bandas\Bandas\bin\Debug\Bandas.exe.config
+C:\Users\games\OneDrive\Documentos\c#-Alura\Bandas\Bandas\bin\Debug\Bandas.exe
+C:\Users\games\OneDrive\Documentos\c#-Alura\Bandas\Bandas\bin\Debug\Bandas.pdb
+C:\Users\games\OneDrive\Documentos\c#-Alura\Bandas\Bandas\obj\Debug\Bandas.csproj.AssemblyReference.cache
+C:\Users\games\OneDrive\Documentos\c#-Alura\Bandas\Bandas\obj\Debug\Bandas.csproj.CoreCompileInputs.cache
+C:\Users\games\OneDrive\Documentos\c#-Alura\Bandas\Bandas\obj\Debug\Bandas.exe
+C:\Users\games\OneDrive\Documentos\c#-Alura\Bandas\Bandas\obj\Debug\Bandas.pdb
